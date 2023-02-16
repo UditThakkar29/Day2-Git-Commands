@@ -1,5 +1,4 @@
 Readme for the git repository
 ihvhjsdvbsahjvbdhjvhvg
 
-
-lajflkdsahj
+learning git reset
